@@ -1,0 +1,13 @@
+LIBRARY user32.dll
+EXPORTS
+RegisterClassA
+CreateWindowExA
+ShowWindow
+UpdateWindow
+GetMessageA
+TranslateMessage
+DispatchMessageA
+CreateWindowExA
+PostQuitMessage
+DefWindowProcA
+MessageBoxA
